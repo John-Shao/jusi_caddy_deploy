@@ -8,6 +8,10 @@
           {
             "/": "/join/*",
             "comment": "加入会议房间"
+          },
+          {
+            "/": "/wx/*",
+            "comment": "微信 OpenSDK Universal Links 回跳"
           }
         ]
       }
