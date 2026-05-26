@@ -12,6 +12,10 @@
           {
             "/": "/wx/*",
             "comment": "微信 OpenSDK Universal Links 回跳"
+          },
+          {
+            "/": "/wb/*",
+            "comment": "微博 OpenSDK Universal Links 回跳"
           }
         ]
       }
